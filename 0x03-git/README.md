@@ -1,1 +1,1 @@
-Make sure your commit and push your code to Github
+Make sure your commit and push your code to Github everytime
